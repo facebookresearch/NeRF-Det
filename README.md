@@ -98,4 +98,4 @@ https://ibrnet.github.io
 https://github.com/open-mmlab/mmdetection3d
 
 ## License
-Nerf-Det is relased under the MIT License. See the LICENSE file for more details.
+The majority of Nerf-Det is licensed under CC-BY-NC, however portions of the project are available under separate license terms: https://github.com/SamsungLabs/imvoxelnet is licensed under the MIT license.
